@@ -1,0 +1,21 @@
+# Build directory
+/build/
+
+# Executable files
+file_version_control
+
+# Object files
+*.o
+
+# Dependency files
+*.d
+
+# Backup files
+*~
+*.bak
+
+# IDE files (Jika menggunakan IDE tertentu)
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
